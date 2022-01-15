@@ -50,7 +50,7 @@ This Work has the following features -
 <p>To Access main activity of this android application user must need to register. Users must have to provide their information. Form Validation also done here, So if user gives any wrong info then they will be toasted.</p>
  <br>
    <br>
- <p align="center">
+ <p orientation = "horizontal">
    <img width="200" height="380" src="Mockup/Signup.JPG"><br>
 <img width="200" height="380" src="Mockup/wrong_number.JPG"><br>
 <img width="200" height="380" src="Mockup/no_validation.JPG"><br>
