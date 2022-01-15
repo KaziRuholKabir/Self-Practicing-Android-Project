@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "257133264696",
+    "project_id": "bannerslider-b4a50",
+    "storage_bucket": "bannerslider-b4a50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257133264696:android:0cddacebcf955f08198bcd",
+        "android_client_info": {
+          "package_name": "com.kazi_ruhol.bannerslider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257133264696-a61ri636baf4mcquu7sk2dfgimkvueub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvp_SaRI8axHr4vZHmZn27N81SkdEgJz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257133264696-a61ri636baf4mcquu7sk2dfgimkvueub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

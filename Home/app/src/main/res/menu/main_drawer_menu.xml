@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_search"
+            android:icon="@drawable/ic_baseline_search_24"
+            android:title="Search"
+            />
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_baseline_home_24"
+            android:title="Home"
+            />
+        <item
+            android:id="@+id/nav_feed"
+            android:icon="@drawable/ic_baseline_table_rows_24"
+            android:title="Feed"
+            />
+        <item
+            android:id="@+id/nav_hot"
+            android:icon="@drawable/ic_baseline_local_fire_department_24"
+            android:title="Hot Trends"
+            />
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/ic_baseline_person_24"
+            android:title="Profile"
+            />
+        <item
+            android:id="@+id/nav_coupon"
+            android:icon="@drawable/ic_baseline_money_24"
+            android:title="Coupon"
+            />
+        <item
+            android:id="@+id/nav_discounts"
+            android:icon="@drawable/ic_baseline_money_off_24"
+            android:title="Discounts"
+            />
+        <item
+            android:id="@+id/nav_favourites"
+            android:icon="@drawable/ic_baseline_favorite_24"
+            android:title="Favourites"
+            />
+        <item
+            android:id="@+id/nav_report"
+            android:icon="@drawable/ic_baseline_report_problem_24"
+            android:title="Report"
+            />
+        <item
+            android:id="@+id/nav_signOut"
+            android:icon="@drawable/exit"
+            android:title="Sign Out"
+            />
+
+
+
+
+    </group>
+
+</menu>
