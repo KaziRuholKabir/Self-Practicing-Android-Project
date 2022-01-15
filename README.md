@@ -17,7 +17,7 @@
 
 <br>
 <h2 id="#introduction">1. Introduction</h2>
-<p>I have built an app specially for faculty members. Where a faculty can manage his students data. A faculty is a very busy person so I think this app will help them to manage their students. They can keep track of their student’s data. They will be able to update data on regular basis. There is a database where I created a lot of data table (Faculty table, student table, etc.). A data table to keep Faculty’s username and password to login. And a data table to keep students data like F.name, L.name, Id, PhoneNo, etc. And a data table to keep data on regular basis like exam’s marks. At the start of a semester a faculty member will be given a section on his particular subject. In a section there will be 40 students. And throughout the semester the faculty have to upload regular data like Quiz-I marks, Quiz-II marks, MID marks, Final Marks. At the end of the table there will be a column for total marks and Final Grade. Grade will be on a university’s grading policy (ex- North South University).
+<p>I have built this app specially for experiencing new features. Where I can show my skills to the employers. I have used firebase as my remote server. This app works perfectly. There is no errors or bugs. Just color combiantion is bad here. I did not use built in navgiation bar activity. I have built this drawer with custom code. Image sliders works perfectly. They retrieve the images from firbase source. Images change itself after 3 secs. I have done otp feature to verify phone number and notification send feature to send notifation to the users with images aded in the notification. Thank you.
 </p>
 
 <h2 id="features">2. Software Specification</h2>
@@ -116,8 +116,8 @@ This Work has the following features -
  <h2 id="#technology">3. Technology</h2>
 
 <p>&nbsp;</p>
-<p><strong>Proposed Technology Stack:</strong></p>
-<p>I proposed to Build mark sheet app by using Android studio 4.2.2 . Which is the latest version of android studio. Android studio is one of the most popular and a complete software to build android applications. For my Front end I decided to use xml to design my front end. For backend I decided to use java programming language. And for database I decided to use Firebase.</p>
+<p><strong>Technology Stack:</strong></p>
+<p>I have used Android studio 4.2.2 . Which is the latest version of android studio. Android studio is one of the most popular and a complete software to build android applications. For my Front end I decided to use xml to design my front end. For backend I decided to use java programming language. And for database I decided to use Firebase.</p>
 <p>&nbsp;</p>
 
 
