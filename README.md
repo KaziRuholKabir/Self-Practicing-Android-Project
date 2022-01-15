@@ -3,7 +3,7 @@
 <p style="text-align: center;">&nbsp;</p>
 
 <p align="center"><strong>Name</strong><strong>:</strong> Kazi Ruhol Kabir Moahhed </p>
-<p align="center"><strong>ID</strong><strong>:&nbsp; </strong>1721103642</p>
+<p align="center"><strong>NSU ID</strong><strong>:&nbsp; </strong>1721103642</p>
 <p align="center"><strong>Email</strong><strong>:</strong> <a href="mailto:kazi.moahhed@northsouth.edu">kazi.moahhed@northsouth.edu</a></p>
 
 
