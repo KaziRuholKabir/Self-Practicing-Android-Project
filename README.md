@@ -47,7 +47,7 @@ This Work has the following features -
 
 
 <p><strong>User Registration:</strong></p>
-<p>To Access main activity of this android application user must need to register. Users must have to provide their information. Form Validation also done here, So if user gives any wrong info then they will be toasted.</p>
+<p>To Access main activity of this android application user must need to register. Users must have to provide their information. Form Validation also done here, So if user gives any wrong info then they will be toasted error.</p>
  <br>
    <br>
  <p align="center">
