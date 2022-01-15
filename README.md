@@ -22,32 +22,54 @@
 
 <h2 id="features">2. Software Specification</h2>
 
-This Project has the following features -
+This Work has the following features -
 <p><strong>&nbsp;</strong></p>
-<p><strong>User Registration:</strong></p>
-<p>To Access main activity of this android application user must need to register. Users must have to provide their information. They must include First name, Last name, Phone No, Address, Username and password. The Username will be used as a primary key to identify unique users.</p>
+
+
+<p><strong>SPLASH SCREEN:</strong></p>
+<p>To get to the login activity of this android application user have to go through a 3 sec of SPLASH SCREEN. Which will try to impress user.</p>
  <br>
    <br>
  <p align="center">
-   <img width="200" height="380" src="Mockup/Register.PNG"><br>
+   <img width="200" height="380" src="Mockup/Splash_Screen.JPG"><br>
    Figure 1.0
  </p>
+
  <p><strong>Login to a specific platform:</strong></p>
- <p>After registering successfully then user have to go through login phase. The main	feature will be accessed after successfully logged in.</p>
+ <p>After registering successfully then user have to go through login phase. The main feature will be accessed after successfully logged in.</p>
  <br>
    <br>
  <p align="center">
-   <img width="200" height="380" src="Mockup/LoginActivity.PNG"><br>
+   <img width="200" height="380" src="Mockup/Login.JPG"><br>
    Figure 2.0
  </p>
- <p><strong>Home Activity:</strong></p>
+
+
+
+<p><strong>User Registration:</strong></p>
+<p>To Access main activity of this android application user must need to register. Users must have to provide their information. Form Validation also done here, So if user gives any wrong info then they will be toasted.</p>
+ <br>
+   <br>
+ <p align="center">
+   <img width="200" height="380" src="Mockup/Signup.JPG"><br>
+<img width="200" height="380" src="Mockup/wrong_number.JPG"><br>
+<img width="200" height="380" src="Mockup/no_validation.JPG"><br>
+   Figure 3.0
+ </p>
+
+
+
+
+ <p><strong>OTP:</strong></p>
  <p>After login this application will show the user of it’s Home activity. Where user or a faculty member can use this application’s main features. User can add student by sections properly with Add Student button. User can view added student by section with Show Student button. User can view Student Mark sheet by pressing Mark sheet button. User can maintain exam marks with exam marks button and also can view student progress by student progress button.</p>
  <br>
    <br>
  <p align="center">
    <img width="200" height="380" src="Mockup/HomeActivity.PNG"><br>
-   Figure 3.0
+   Figure 4.0
  </p>
+
+
   <p><strong>Add Student Activity:</strong></p>
  <p>Here user can add student by sections. Just need some student information. Which are Student Id, Student first name, Student last name, Student phone no, student section.</p>
  <br>
@@ -56,6 +78,8 @@ This Project has the following features -
    <img width="200" height="380" src="Mockup/AddStudentActivity.PNG"><br>
    Figure 4.0
  </p>
+
+
   <p><strong>Show Student Activity:</strong></p>
  <p>This Activity will present the student details which are added to the database. Like I already added two student data with add student activity and this activity is showing their corresponding data.</p>
  <br>
@@ -64,6 +88,8 @@ This Project has the following features -
    <img width="200" height="380" src="Mockup/ShowStudentActivity.PNG"><br>
    Figure 5.0
  </p>
+
+
   <p><strong>Marksheet Activity:</strong></p>
  <p>This activity is incomplete. Just represented the outlook of this activity.</p>
  <br>
@@ -72,6 +98,9 @@ This Project has the following features -
    <img width="200" height="380" src="Mockup/MarksheetActivity.PNG"><br>
    Figure 6.0
  </p>
+
+
+
   <p><strong>Show Student Progress Activity:</strong></p>
  <p>This activity is also incomplete. Just represented the outlook of this activity</p>
  <br>
