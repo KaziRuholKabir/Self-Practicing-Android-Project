@@ -65,7 +65,7 @@ This Work has the following features -
  <br>
    <br>
  <p align="center">
-   <img width="200" height="380" src="Mockup/OTP.JPG"><br>
+   <img width="200" height="380" src="Mockup/OTP.jpg"><br>
    Figure 4.0
  </p>
 
@@ -96,7 +96,7 @@ This Work has the following features -
  <br>
    <br>
  <p align="center">
-   <img width="200" height="380" src="Mockup/Nav_Drawer"><br>
+   <img width="200" height="380" src="Mockup/Nav_Drawer.JPG"><br>
    Figure 7.0
  </p>
 
@@ -107,7 +107,7 @@ This Work has the following features -
  <br>
    <br>
  <p align="center">
-   <img width="200" height="380" src="Mockup/Notification.JPG"><br>
+   <img width="200" height="380" src="Mockup/Notification.jpg"><br>
    Figure 8.0
  </p>
  
