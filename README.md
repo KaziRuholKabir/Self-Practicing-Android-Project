@@ -50,7 +50,7 @@ This Work has the following features -
 <p>To Access main activity of this android application user must need to register. Users must have to provide their information. Form Validation also done here, So if user gives any wrong info then they will be toasted.</p>
  <br>
    <br>
- <p orientation = "horizontal">
+ <p align="center">
    <img width="200" height="380" src="Mockup/Signup.JPG"><br>
 <img width="200" height="380" src="Mockup/wrong_number.JPG"><br>
 <img width="200" height="380" src="Mockup/no_validation.JPG"><br>
@@ -61,53 +61,54 @@ This Work has the following features -
 
 
  <p><strong>OTP:</strong></p>
- <p>After login this application will show the user of it’s Home activity. Where user or a faculty member can use this application’s main features. User can add student by sections properly with Add Student button. User can view added student by section with Show Student button. User can view Student Mark sheet by pressing Mark sheet button. User can maintain exam marks with exam marks button and also can view student progress by student progress button.</p>
+ <p>After Entering Phone no a cerification code will be sent to that number and user have to enter to verify there number. This service is provided by the firebase</p>
  <br>
    <br>
  <p align="center">
-   <img width="200" height="380" src="Mockup/HomeActivity.PNG"><br>
+   <img width="200" height="380" src="Mockup/OTP.JPG"><br>
    Figure 4.0
  </p>
 
 
-  <p><strong>Add Student Activity:</strong></p>
- <p>Here user can add student by sections. Just need some student information. Which are Student Id, Student first name, Student last name, Student phone no, student section.</p>
+  <p><strong>HOME Activity:</strong></p>
+ <p>Here I have made 5 separate catagory of banner slider. Where different banners will be shown of different categories. It is connected with firebase and automatically updates itself while firebase storage changes.</p>
  <br>
    <br>
  <p align="center">
-   <img width="200" height="380" src="Mockup/AddStudentActivity.PNG"><br>
-   Figure 4.0
- </p>
-
-
-  <p><strong>Show Student Activity:</strong></p>
- <p>This Activity will present the student details which are added to the database. Like I already added two student data with add student activity and this activity is showing their corresponding data.</p>
- <br>
-   <br>
- <p align="center">
-   <img width="200" height="380" src="Mockup/ShowStudentActivity.PNG"><br>
+   <img width="200" height="380" src="Mockup/Home1.JPG"><br>
    Figure 5.0
  </p>
 
 
-  <p><strong>Marksheet Activity:</strong></p>
- <p>This activity is incomplete. Just represented the outlook of this activity.</p>
+  <p><strong>Favourites:</strong></p>
+ <p>This is a Cute feature. By clicking it the item will be added to a favourite list.</p>
  <br>
    <br>
  <p align="center">
-   <img width="200" height="380" src="Mockup/MarksheetActivity.PNG"><br>
+<img width="200" height="380" src="Mockup/Home1.JPG"><br>
+   <img width="200" height="380" src="Mockup/Fav_Button.JPG"><br>
    Figure 6.0
  </p>
 
 
-
-  <p><strong>Show Student Progress Activity:</strong></p>
- <p>This activity is also incomplete. Just represented the outlook of this activity</p>
+  <p><strong>Navigation Drawer:</strong></p>
+ <p>This is a complete drawer. This drawer is not the built in drawer of Android Studio. It is codded customely. and this drawer is accessible from every activity</p>
  <br>
    <br>
  <p align="center">
-   <img width="200" height="380" src="Mockup/StudentProgress.PNG"><br>
+   <img width="200" height="380" src="Mockup/Nav_Drawer"><br>
    Figure 7.0
+ </p>
+
+
+
+  <p><strong>Notification:</strong></p>
+ <p>This is an intersting feature of firebase which I discovered first time. This feature send notification to the users who has downloaded my app.</p>
+ <br>
+   <br>
+ <p align="center">
+   <img width="200" height="380" src="Mockup/Notification.JPG"><br>
+   Figure 8.0
  </p>
  
 
@@ -116,13 +117,11 @@ This Work has the following features -
 
 <p>&nbsp;</p>
 <p><strong>Proposed Technology Stack:</strong></p>
-<p>I proposed to Build mark sheet app by using Android studio 4.0.1 . Which is the latest version of android studio. Android studio is one of the most popular and a complete software to build android applications. For my Front end I decided to use xml to design my front end. For backend I decided to use java programming language. And for database I decided to use SQLiteOpenHelper to build database.</p>
+<p>I proposed to Build mark sheet app by using Android studio 4.2.2 . Which is the latest version of android studio. Android studio is one of the most popular and a complete software to build android applications. For my Front end I decided to use xml to design my front end. For backend I decided to use java programming language. And for database I decided to use Firebase.</p>
 <p>&nbsp;</p>
-<p><strong>Implemented Technology Stack:</strong></p>
-<p>For user interface I used the built in feature of android studio. I used Android Studio 4.0.1 . I used Java Programming language as my backend. Where all logical condition was running. For database I used built-in database method. I used SQLiteOpenHelper to write queries of SQL. I used xml to design my activities. I used Intents to connect my activity to activity. And Used 100% of Java programming language at the backend.</em></p>
-<p>&nbsp;</p>
+
 
 <h2>5. Conclusion</h2>
 <p id="#conclusion">
-Marksheet App is basically made for the faculty members. Where the faculty members will be able to use by username password verification. Their data will be protected with most security. They will be the most user of this app. The features of this app will help them to maintain the marks distribution of their students properly. And most important thing is this application will help them to maintain their time because it will cost them less time than other process of marks distribution.</p>
+This work is basically made for my self learning purpose. Where I will be able to show my skills and dedication to the Employers.</p>
 
