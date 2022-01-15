@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "178830116445",
+    "firebase_url": "https://tanbee-7438a-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "tanbee-7438a",
+    "storage_bucket": "tanbee-7438a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178830116445:android:7f020eb38cc05bc20fafb4",
+        "android_client_info": {
+          "package_name": "com.kazi_ruhol.tanbee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178830116445-as0es5gq3mefd1b38mgh2tissdbgg8nv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kazi_ruhol.tanbee",
+            "certificate_hash": "69a16db89981adb40286343aacfedcd5a2aa91ed"
+          }
+        },
+        {
+          "client_id": "178830116445-imja6m2jsbf2l1nbdu5m0du66uu341ba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIs5cAx83GbqOvEmsuuwhMRMJdykgSiHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178830116445-imja6m2jsbf2l1nbdu5m0du66uu341ba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

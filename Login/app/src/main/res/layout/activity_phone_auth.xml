@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".PhoneAuth"
+    android:background="@color/peach_yellow"
+    android:padding="20dp"
+    android:orientation="vertical">
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_marginBottom="20dp"
+        android:layout_gravity="center"
+        android:src="@mipmap/bee"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Welcome"
+        android:textSize="40sp"
+        android:fontFamily="@font/lora"
+        android:textColor="@color/black"
+        android:layout_marginTop="-20dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Sign Up Here"
+        android:textSize="18sp"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="20dp">
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Username"
+            android:id="@+id/edtUsername"
+
+            android:inputType="text"
+            />
+
+        <LinearLayout
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <TextView
+                android:layout_width="40dp"
+                android:layout_height="wrap_content"
+                android:text="+88"
+                android:textSize="18sp"
+                android:textColor="@color/black"/>
+
+
+            <EditText
+                android:layout_width="247dp"
+                android:layout_height="wrap_content"
+                android:hint="Enter Phone No"
+                android:id="@+id/edtPhoneNumberAuth"
+
+                android:inputType="phone"
+                android:gravity="left"/>
+            <Button
+                android:layout_width="83dp"
+                android:layout_height="wrap_content"
+                android:text="Send OTP"
+                android:textSize="9sp"
+                android:textColor="@color/black"
+                android:background="#00000000"
+                android:id="@+id/btnGetOTP"/>
+
+
+        </LinearLayout>
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Email"
+            android:id="@+id/edtEmail"
+            android:inputType="textEmailAddress"
+            />
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Password"
+            android:id="@+id/edtPassword"
+            android:inputType="textPassword"
+            />
+        <EditText
+            android:layout_marginTop="0dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Enter OTP"
+            android:id="@+id/edtOTPAuth"
+            android:inputType="number"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Sign Up"
+            android:id="@+id/btnLoginPhoneAuth"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="right"
+            android:text="Already Have an Account?"
+            android:id="@+id/btnLoginT"
+            android:background="#00000000"
+            android:textColor="@color/black"
+            android:textSize="12sp"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="right"
+            android:text="Resend OTP"
+            android:id="@+id/btnResendAuth"
+            android:background="#00000000"
+            android:textColor="@color/black"
+            android:textSize="11sp"/>
+
+
+
+    </LinearLayout>
+
+
+
+
+
+
+
+</LinearLayout>
