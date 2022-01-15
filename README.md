@@ -61,7 +61,7 @@ This Work has the following features -
 
 
  <p><strong>OTP:</strong></p>
- <p>After Entering Phone no a cerification code will be sent to that number and user have to enter to verify there number. This service is provided by the firebase</p>
+ <p>After Entering Phone no a verification code will be sent to that number and user have to enter to verify there number. This service is provided by the firebase</p>
  <br>
    <br>
  <p align="center">
